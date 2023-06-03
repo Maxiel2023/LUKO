@@ -1,2 +1,2 @@
 # LUKO
- Juego sobre aprender el veerbo to be para niños
+ Juego sobre aprender el verbo to be, para niños y niñas
